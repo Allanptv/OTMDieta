@@ -1,0 +1,6 @@
+z = 2 Água + 1.9 Pão + 7Macarrão + 5Batata + 23.5Arroz + 6Azeitona + 8.89Ovos + 5Chocolate + 30Pizza + 7.45Feijão + 
+27.5Bife + 2Amendoim + 5.19Brócolis + 30Peixe + 3Maçã + 5Laranja + 3.29Leite + 5.43Morango + 10Avela + 9.99Cereais
+
+Sujeito a:
+    0*Água + 52*Pao + 33*Macarrão + ... >= carbo
+
